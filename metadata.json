@@ -1,0 +1,8 @@
+{
+  "name": "CryptoVid AI Studio",
+  "description": "An automated digital media platform that transforms real-time crypto news and prediction data into high-quality, engaging YouTube video content using Gemini and Veo.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
